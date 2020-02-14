@@ -1,0 +1,24 @@
+$titleColor: red;
+$subTitleColor: white;
+$backgroundColor: gray;
+$textColor: black;
+
+body {
+  background-color: $backgroundColor;
+}
+
+h1 {
+  color: $titleColor;
+}
+
+h2 {
+  color: $subTitleColor;
+}
+
+h3 {
+  color: $subTitleColor;
+}
+
+p {
+  color: $textColor
+}
